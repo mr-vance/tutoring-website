@@ -1,7 +1,7 @@
  <hr>
  
 <h3>Tutoring-Website</h3>
-<p>Khanyisa's Tutoring Website 2022. Developed in March/April 2022 by:</p>
+<p>Khanyisa's Tutoring Website 2022. First developed in March/April 2022 by:</p>
 
 <ol>
   <li><a href=mailto:"mpholouism@gmail.com">Louis Mosotho</a> and </li>
