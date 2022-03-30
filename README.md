@@ -4,8 +4,8 @@
 <p>Khanyisa's Tutoring Website 2022. Developed in March/April 2022 by:</p>
 
 <ol>
-  <li><a href="mpholouism@gmail.com">Louis Mosotho</a> and </li>
-  <li><a href="vansmuchongo@gmail.com">Vance Muchongo</a></li>
+  <li><a href=mailto:"mpholouism@gmail.com">Louis Mosotho</a> and </li>
+  <li><a href=mailto:"vansmuchongo@gmail.com">Vance Muchongo</a></li>
 </ol>
 
  <hr>
