@@ -27,7 +27,7 @@ Table of contents
 font & reset css
 --------------------------------------------- 
 */
-@import url("https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100,300,400,500,700,900");
 /* 
 ---------------------------------------------
 reset
@@ -79,7 +79,7 @@ header, nav, section, article, aside, footer, hgroup {
 }
 
 html, body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   background-color: #fff;
   font-size: 16px;
@@ -109,7 +109,7 @@ global styles
 html,
 body {
   background: #fff;
-  font-family: "Raleway", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 ::selection {
