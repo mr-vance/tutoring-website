@@ -29,5 +29,5 @@
 
 <hr>
 
-https://img.shields.io/aur/last-modified/Tutoring-Website
+https://img.shields.io/aur/last-modified/https://github.com/Vance97/Tutoring-Website
  
