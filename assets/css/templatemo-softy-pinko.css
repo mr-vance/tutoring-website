@@ -311,6 +311,15 @@ body {
 }
 
 /*CSS for Text Animation*/
+h1,h2 {
+  font-weight: 200;
+  margin: 0.4em 0;
+}
+h1 { font-size: 3.5em; }
+h2 {
+  color: #888;
+  font-size: 2em;
+}
 
 /* CSS for the Booking Button */
 .button-64 {
