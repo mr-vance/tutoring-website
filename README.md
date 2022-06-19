@@ -29,5 +29,4 @@
 
 <hr>
 
-https://img.shields.io/aur/last-modified/https://github.com/Vance97/Tutoring-Website
- 
+[![GitHub-Activity](https://img.shields.io/github/last-commit/Vance97/Tutoring-Website)](https://github.com/Vance97/Tutoring-Website) 
