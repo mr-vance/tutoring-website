@@ -35,3 +35,4 @@
 [![GitHub-Repo-Size](https://img.shields.io/github/repo-size/Vance97/Tutoring-Website)](https://github.com/Vance97/Tutoring-Website)
 [![GitHub Open Issues](https://img.shields.io/github/issues/Vance97/Tutoring-Website)](https://github.com/Vance97/Tutoring-Website)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/Vance97/Tutoring-Website)](https://github.com/Vance97/Tutoring-Website)
+[![GitHub Repo-Release](https://img.shields.io/github/v/tag/Vance97/Tutoring-Website)](https://github.com/Vance97/Tutoring-Website)
