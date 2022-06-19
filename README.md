@@ -31,3 +31,7 @@
 
 [![GitHub-Activity](https://img.shields.io/github/last-commit/Vance97/Tutoring-Website)](https://github.com/Vance97/Tutoring-Website)
 [![GitHub-Contributors](https://img.shields.io/github/contributors/Vance97/Tutoring-Website)](https://github.com/Vance97/Tutoring-Website)
+[![GitHub-Commit-Activity](https://img.shields.io/github/commit-activity/w/Vance97/Tutoring-Website)](https://github.com/Vance97/Tutoring-Website)
+[![GitHub-Repo-File-Count](https://img.shields.io/github/directory-file-count/Vance97/Tutoring-Website)](https://github.com/Vance97/Tutoring-Website)
+[![GitHub-Repo-Size](https://img.shields.io/github/repo-size/Vance97/Tutoring-Website)](https://github.com/Vance97/Tutoring-Website)
+[![Code-Codverage](https://img.shields.io/codecov/c/github/Vance97/Tutoring-Website?flag=code_cov&token=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)](https://github.com/Vance97/Tutoring-Website)
