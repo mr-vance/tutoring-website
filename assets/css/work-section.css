@@ -1,0 +1,108 @@
+/* SASS: COLORS */
+/* SASS: MARGINS & PADDING */
+/* SASS: FONNTS */
+  .offer-grid .offer-card .flip-back .card-profile {
+    position: absolute;
+    bottom: 40px;
+    left: 50px;
+    margin: 30px 0 0 0;
+    padding-left: 0;
+    text-align: left;
+    width: calc(100%-50px);
+  }
+  .offer-grid {
+    margin-top: 150px;
+    margin-bottom: 100px;
+  }
+  .offer-grid .offer-card-column {
+    margin-bottom: 60px;
+  }
+  .offer-card {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .offer-grid .flip-front-container {
+    background-color: #313f54;
+    width: 300px;
+    height: 400px;
+    display: table;
+  }
+  .program-front {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+  }
+  .program-front .program-name, .program-front .program-icon {
+    font-size: 32px;
+  }
+  .program-front .program-icon {
+    padding-bottom: 5px;
+  }
+  .program-front .program-short-description {
+    font-style: italic;
+  }
+  .flip-back img, .flip-front img, .flip-back div {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .offer-grid .flip-back {
+    box-shadow: 0 10px 40px 10px rgba(0, 0, 0, 0.2);
+    border: none;
+    border-radius: 5px;
+  }
+  @media (max-width: 767px) {
+    .offer-grid .flip-back {
+      max-width: 400px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  .offer-grid .flip-back .flip-back-container {
+    width: 300px;
+    height: 440px;
+  }
+  .offer-grid .flip-back .flip-back-container .card-text {
+    height: 320px;
+    padding-top: 0;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .offer-grid .flip-back .flip-back-container .card-text p {
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.6em;
+  }
+  .offer-grid .flip-back .flip-back-container .program-back-cta {
+    height: 80px;
+    text-align: center;
+    padding-top: 20px;
+  }
+  /* one way I know to overwrite backface visibility */
+  @media (max-width: 767px) {
+    .flip-front, .flip-back {
+      -webkit-transition: none !important;
+      transition: none !important;
+    }
+    .flip-front {
+      display: none !important;
+    }
+    .flip-back {
+      transform: none !important;
+    }
+  }
+  .aa-contact-prompt-offer-page {
+    margin-top: 70px;
+    text-align: center;
+  }
+  .aa-contact-prompt-offer-page h2, .aa-contact-prompt-offer-page p {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .aa-contact-prompt-offer-page p {
+    margin-bottom: 50px;
+  }
+  
