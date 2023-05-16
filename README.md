@@ -1,5 +1,8 @@
  <hr>
  
+ ![khanyisa](khanyisa.png)
+
+ 
 <h3>Tutoring-Website</h3>
 <p>Khanyisa's Tutoring Website. First developed in March/April 2022 by:</p>
 
